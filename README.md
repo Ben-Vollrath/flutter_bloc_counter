@@ -1,6 +1,6 @@
 # flutter_bloc_counter
 
-A new Flutter project.
+A very simple flutter project to learn the basics of Bloc State Management
 
 ## Getting Started
 
